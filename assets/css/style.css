@@ -8,6 +8,7 @@ body {
   background-color: #d9dcd6;
 }
 
+/* header properties here */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -50,7 +51,7 @@ a {
 p {
   font-size: 16px;
 }
-
+/* hero class properties her */
 .hero {
   height: 800px;
   width: 100%;
@@ -75,7 +76,7 @@ p {
   display: inline-block;
   margin-left: 20px;
 }
-
+/* benefit properties here */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -87,6 +88,7 @@ p {
   background-color: #2589bd;
 }
 
+/* .benefit-article properties */
 .benefit-article {
   margin-bottom: 32px;
   color: #ffffff;
@@ -103,6 +105,7 @@ p {
   max-width: 150px;
 }
 
+/* main class properties here */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -114,6 +117,7 @@ p {
   color: #ffffff;
 }
 
+/* main class img properties here */
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
@@ -127,6 +131,7 @@ p {
   font-size: 36px;
 }
 
+/* footer properties here */
 .footer {
   padding: 30px;
   clear: both;
